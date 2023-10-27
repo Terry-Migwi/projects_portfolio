@@ -1,4 +1,8 @@
-## About Me
+## About Me 
+
+![image](https://github.com/Terry-Migwi/projects_portfolio/assets/65303250/b01de668-454a-4d35-97ae-b525a6e7b5b5)
+
+
 I am a Data Scientist with three years of experience leveraging data analytics to inform the decision-making process for businesses. My general interest is to explore and analyse tabular and text data to obtain actionable insights for businesses. 
 
 ## Technical Skills
