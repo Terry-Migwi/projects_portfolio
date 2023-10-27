@@ -27,8 +27,8 @@ A project to analyse sentiments on CDs and Vinyl products on Amazon's website. T
 <img src = "https://github.com/Terry-Migwi/projects_portfolio/assets/65303250/2421b29f-42a9-4482-823a-b1150692a78a" width = "250" height = "250">
 
 `<img src = "https://github.com/Terry-Migwi/projects_portfolio/assets/65303250/8df5af22-d381-48c0-bfb7-b140d9fd17df" width = "200" height = "200">` 
-
-![image](https://github.com/Terry-Migwi/projects_portfolio/assets/65303250/1d63f2ef-c8f1-4415-83dc-78fa64b21aaa)
+<img src = "https://github.com/Terry-Migwi/projects_portfolio/assets/65303250/1d63f2ef-c8f1-4415-83dc-78fa64b21aaa" width = "250" height = "250">
+![image](https://github.com/Terry-Migwi/projects_portfolio/assets/65303250/27f88daf-d591-4f8b-997f-f79290fd3f74)
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
