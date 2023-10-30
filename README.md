@@ -33,3 +33,17 @@ Customer segmentation project using K-Means clustering and Hierarchical clusteri
 <img src = "https://github.com/Terry-Migwi/projects_portfolio/assets/65303250/3f5e50f2-41ec-4d2a-918f-12b055303cdb" width = "100" height = "100"> 
 <img src = "https://github.com/Terry-Migwi/projects_portfolio/assets/65303250/af98fc9b-1014-4019-ad77-ae3024865163" width = "100" height = "100"> 
 
+## Awards and Scholarships
+1. Chevening Award | September 2022 - September 2023
+
+Masters Science in Business Analytics 
+
+2. AWS Machine Learning Scholarship | June 2021 - October 2021
+
+Experience in Machine Learning with the AWS cloud platform. 
+
+3. Machine Learning Engineering Scholarship | December 2020 - June 2021
+
+Certificate in Machine Learning Engineering. 
+
+
