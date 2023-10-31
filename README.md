@@ -5,7 +5,7 @@ I am a Data Scientist with three years of experience leveraging data analytics t
 ## Technical Skills
 Statistical Analysis, Data Analysis, Data Visualization, supervised and unsupervised Machine Learning, Deep Learning
 
-Tools: Python, SQL, SPSS, AWS, Tableau, Git.
+**Tools: Python, SQL, SPSS, AWS, Tableau, Git.**
 
 ## Portfolio Projects
 
