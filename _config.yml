@@ -1,8 +1,11 @@
 title:          Terry Migwi
 logo:           /docs/assets/Portfolio_pic.png
-description: >- 
-      Data Scientist
-url:        https://github.com/Terry-Migwi
+description:    Data Scientist
 show_downloads:  false
 theme:           jekyll-theme-minimal
+
+social:
+
+  linkedin: https://www.linkedin.com/in/terry-migwi-a81082137/
+  github: /https://github.com/Terry-Migwi
 
