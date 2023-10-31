@@ -1,18 +1,7 @@
 title:          Terry Migwi
 logo:           /docs/assets/pic_2.png
-description:     Data Scientist
+description: >- 
+      Data Scientist
 show_downloads:  false
 theme:           jekyll-theme-minimal
- links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+
