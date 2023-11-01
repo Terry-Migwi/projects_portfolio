@@ -1,7 +1,7 @@
 title:          Terry Migwi
 logo:           /docs/assets/Portfolio_pic.png
 description: >-  
-       Follow me on [LinkedIn]({{ site.linkedin_url }}) and [GitHub]({{ site.github_url }})
+       Data Scientist
 show_downloads:  false
 theme:           jekyll-theme-minimal
 index:           README.md
