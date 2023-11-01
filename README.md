@@ -1,6 +1,6 @@
 ## About Me 
 
-I am a Data Scientist with three years of experience leveraging data analytics to inform the decision-making process for businesses. My general interest is to explore and analyse tabular and text data to obtain actionable insights for businesses. 
+I am a Data Scientist with three years of experience leveraging data analytics to inform the decision-making process for businesses. My general interest is to explore and analyze tabular and text data to obtain actionable insights for businesses. 
 
 ## Technical Skills
 Statistical Analysis, Data Analysis, Data Visualization, supervised and unsupervised Machine Learning, Deep Learning
@@ -20,7 +20,7 @@ A project that employs statistical and machine learning techniques to predict Ai
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### [Sentiment Analysis of Amazon Reviews](https://github.com/Terry-Migwi/Amazon_Reviews_Sentiment_Analysis)
 
-A project to analyse sentiments on CDs and Vinyl products on Amazon's website using Natural Language Processing. The pre-trained VADER sentiment classifier is used to identify positive, neutral, and negative reviews for the products. Further, Logistic Regression, Naive Bayes, and Random Forests supervised machine learning and Neural Networks are used to classify the reviews. This study is relevant for Amazon's product team to evaluate their product performance, better understand their customers' needs and inform strategy. 
+A project to analyze sentiments on CDs and Vinyl products on Amazon's website using Natural Language Processing. The pre-trained VADER sentiment classifier is used to identify positive, neutral, and negative reviews for the products. Further, Logistic Regression, Naive Bayes, and Random Forests supervised machine learning and Neural Networks are used to classify the reviews. This study is relevant for Amazon's product team to evaluate their product performance, better understand their customers' needs and inform strategy. 
 
 <img src = "https://github.com/Terry-Migwi/projects_portfolio/assets/65303250/c0ee1a80-245d-4850-98ec-281d375bd6df" width = "100" height = "100"> 
 <img src = "https://github.com/Terry-Migwi/projects_portfolio/assets/65303250/b0e8cb64-9acc-453c-a946-2fbae66d2c38" width = "100" height = "100"> 
@@ -45,5 +45,5 @@ Customer segmentation project using K-Means clustering and Hierarchical clusteri
 
 ## Contacts
 
-** Find me on [LinkedIn]({{ site.linkedin_url }}) or [GitHub]({{ site.github_url }})**
+** Find me on [LinkedIn]({{ site.linkedin_url }}) or [GitHub]({{ site.github_url }}) **
 
