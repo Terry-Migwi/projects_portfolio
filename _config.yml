@@ -3,6 +3,7 @@ logo:           /docs/assets/Portfolio_pic.png
 description:    Data Scientist
 show_downloads:  false
 theme:           jekyll-theme-minimal
+index:           README.md
 
 social:
 
