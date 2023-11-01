@@ -45,5 +45,5 @@ Customer segmentation project using K-Means clustering and Hierarchical clusteri
 
 ## Contacts
 
-**Find me on [LinkedIn]({{ site.linkedin_url }}) or [GitHub]({{ site.github_url }})**
+Find me on **[LinkedIn]**({{ site.linkedin_url }}) or **[GitHub]**({{ site.github_url }})
 
