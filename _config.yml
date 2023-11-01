@@ -5,14 +5,16 @@ show_downloads:  false
 theme:           jekyll-theme-minimal
 index:           README.md
 
-#social:
+linkedin_url: https://www.linkedin.com/in/terry-migwi-a81082137
+github_url:   https://github.com/Terry-Migwi 
 
-  #linkedin:   terry-migwi-a81082137
-  #github:     Terry-Migwi 
+social:
+
+  linkedin:   [LinkedIn]({{ site.linkedin_url }})
+  github:     [GitHub]({{ site.github_url }})
 
   # _config.yml
 
-linkedin_url: https://www.linkedin.com/in/terry-migwi-a81082137
-github_url: https://github.com/Terry-Migwi 
 
 
+Follow me on [LinkedIn]({{ site.linkedin_url }}) and [GitHub]({{ site.github_url }}).
