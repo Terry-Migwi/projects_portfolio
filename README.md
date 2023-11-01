@@ -45,5 +45,5 @@ Customer segmentation project using K-Means clustering and Hierarchical clusteri
 
 ## Contacts
 
-[LinkedIn]({{ site.linkedin_url }}) | [GitHub]({{ site.github_url }})
+**[LinkedIn]({{ site.linkedin_url }}) | [GitHub]({{ site.github_url }})**
 
