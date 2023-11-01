@@ -1,6 +1,7 @@
 title:          Terry Migwi
 logo:           /docs/assets/Portfolio_pic.png
-description:    Data Scientist
+description: >-  
+       Follow me on [LinkedIn]({{ site.linkedin_url }}) and [GitHub]({{ site.github_url }})
 show_downloads:  false
 theme:           jekyll-theme-minimal
 index:           README.md
@@ -8,13 +9,13 @@ index:           README.md
 linkedin_url: https://www.linkedin.com/in/terry-migwi-a81082137
 github_url:   https://github.com/Terry-Migwi 
 
-social:
+#social:
 
-  linkedin:   [LinkedIn]({{ site.linkedin_url }})
-  github:     [GitHub]({{ site.github_url }})
+ # linkedin:   [LinkedIn]({{ site.linkedin_url }})
+ # github:     [GitHub]({{ site.github_url }})
 
   # _config.yml
 
 
 
-Follow me on [LinkedIn]({{ site.linkedin_url }}) and [GitHub]({{ site.github_url }}).
+
