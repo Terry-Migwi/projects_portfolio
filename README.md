@@ -43,4 +43,5 @@ Customer segmentation project using K-Means clustering and Hierarchical clusteri
 
 3. Machine Learning Engineering Scholarship | December 2020 - June 2021
 
+Follow me on [LinkedIn]({{ site.linkedin_url }}) and [GitHub]({{ site.github_url }}).
 
