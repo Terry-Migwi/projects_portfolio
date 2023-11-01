@@ -7,7 +7,7 @@ Statistical Analysis, Data Analysis, Data Visualization, supervised and unsuperv
 
 **Tools: Python, SQL, SPSS, AWS, Tableau, Git.**
 
-## Portfolio Projects
+## Projects
 
 ### [Airbnb Price Prediction](https://github.com/Terry-Migwi/Airbnb_Price_Prediction)
 
