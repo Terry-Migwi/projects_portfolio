@@ -6,8 +6,9 @@ show_downloads:  false
 theme:           jekyll-theme-minimal
 index:           README.md
 
-linkedin_url: https://www.linkedin.com/in/terry-migwi-a81082137
-github_url:   https://github.com/Terry-Migwi 
+social: 
+  linkedin_url: https://www.linkedin.com/in/terry-migwi-a81082137
+  github_url:   https://github.com/Terry-Migwi 
 
 #social:
 
