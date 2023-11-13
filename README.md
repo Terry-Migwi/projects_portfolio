@@ -30,7 +30,7 @@ A project to analyze sentiments on CDs and Vinyl products on Amazon's website us
 
 ### [Customer Analytics](https://github.com/Terry-Migwi/Customer-Segmentation)
 
-Customer segmentation project using K-Means clustering and Hierarchical clustering on customer data of Kira Plastinina, a Russian brand, to determine the characteristics of different customers and understand the behaviors of different customer groups. This study is relevant to Kira Plastinina's marketing team to understand their target market better, employ targeted communication, and tailor campaigns for the different customer segments. 
+Customer segmentation project using K-Means clustering and Hierarchical clustering on customer data of Kira Plastinina, a Russian brand, to determine the characteristics of different customers and understand the behaviours of different customer groups. This study is relevant to Kira Plastinina's marketing team to understand their target market better, employ targeted communication, and tailor campaigns for the different customer segments. 
 
 <img src = "https://github.com/Terry-Migwi/projects_portfolio/assets/65303250/3f5e50f2-41ec-4d2a-918f-12b055303cdb" width = "100" height = "100"> 
 <img src = "https://github.com/Terry-Migwi/projects_portfolio/assets/65303250/af98fc9b-1014-4019-ad77-ae3024865163" width = "100" height = "100"> 
@@ -45,5 +45,5 @@ Customer segmentation project using K-Means clustering and Hierarchical clusteri
 
 ## Contacts
 
-Find me on **[LinkedIn]**({{ site.linkedin_url }}) or **[GitHub]**({{ site.github_url }})
+Find me on [LinkedIn]({{ site.linkedin_url }}) or [GitHub]({{ site.github_url }})
 
