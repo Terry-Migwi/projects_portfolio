@@ -45,5 +45,5 @@ Customer segmentation project using K-Means clustering and Hierarchical clusteri
 
 ## Contacts
 
-Find me on [LinkedIn]({{ site.linkedin_url }}) or [GitHub]({{ site.github_url }})
+Contact me on [LinkedIn](https://www.linkedin.com/in/terry-migwi-a81082137/) or find my other projects on [GitHub](https://github.com/Terry-Migwi)
 
