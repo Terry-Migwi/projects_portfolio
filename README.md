@@ -7,7 +7,23 @@ Statistical Analysis, Data Analysis, Data Visualization, supervised and unsuperv
 
 **Tools: Python, SQL, SPSS, AWS, Tableau, Git.**
 
-## Projects
+## Projects 
+
+### Attendance Tracking Project
+
+This project was developed to automate the learner attendance tracking process to save time. Previously, marking attendance manually for approximately 100 learners took me about 30 minutes per session. With two sessions per week, that added up to 2 hours of repetitive work every week. To streamline this task, I created a Python script that now completes the process in under 5 minutes.
+
+How it works:
+1. I maintain a spreadsheet with all learners' names and email addresses.
+2. After each session, I receive a separate spreadsheet with the emails of attendees.
+3. The script compares the two files, identifies absentees, and generates a separate spreadsheet listing them.
+
+This output simplifies the process of updating the attendance system—especially since it defaults to marking everyone as present.
+
+Results:
+1. Reduced attendance tracking time from 2 hours/week to under 10 minutes/week
+2. Eliminated redundant manual tasks
+3. Created a reliable and repeatable workflow for future sessions
 
 ### [Airbnb Price Prediction](https://github.com/Terry-Migwi/Airbnb_Price_Prediction)
 
@@ -34,14 +50,6 @@ Customer segmentation project using K-Means clustering and Hierarchical clusteri
 
 <img src = "https://github.com/Terry-Migwi/projects_portfolio/assets/65303250/3f5e50f2-41ec-4d2a-918f-12b055303cdb" width = "100" height = "100"> 
 <img src = "https://github.com/Terry-Migwi/projects_portfolio/assets/65303250/af98fc9b-1014-4019-ad77-ae3024865163" width = "100" height = "100"> 
-
-## Awards and Scholarships
-
-1. Chevening Award | MSc Business Analytics  | September 2022 - September 2023
-
-2. AWS Machine Learning Scholarship | June 2021 - October 2021
-
-3. Machine Learning Engineering Scholarship | December 2020 - June 2021
 
 ## Contacts
 
