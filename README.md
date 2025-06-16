@@ -25,7 +25,7 @@ Results:
 2. Eliminated redundant manual tasks
 3. Created a reliable and repeatable workflow for future sessions
 
-// <img src = "https://github.com/Terry-Migwi/projects_portfolio/blob/main/assets/images/attendance_tracking_ui.png" width = "600" height = "300"> 
+<img src = "/assets/images/attendance_tracking_ui.png" width = "600" height = "300"> 
 <img src="https://raw.githubusercontent.com/Terry-Migwi/projects_portfolio/main/assets/images/attendance_tracking_ui.png" width="600" height="300">
 
 
