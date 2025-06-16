@@ -1,6 +1,6 @@
 ## About Me 
 
-I am a data scientist with 5 years of experience working with data — having worked both as a data science coach/mentor and as a practitioner in industry. My general interest lies in exploring and analyzing both tabular and text data to uncover actionable insights for businesses. Additionally, I enjoy automating repetitive tasks to save time and boost efficiency. Whether I am mentoring others or building solutions myself, my goal is always the same — to make data useful, accessible, and impactful.
+I am a data scientist with 5 years of experience working with data — having worked both as a data science coach/mentor and as a practitioner in industry. My general interest lies in exploring and analyzing both tabular and text data to uncover actionable insights for businesses. I enjoy automating repetitive tasks to save time and boost efficiency. Whether I am mentoring others or building solutions myself, my goal is always the same — to make data useful, accessible, and impactful.
 
 ## Technical Skills
 Statistical Analysis, Data Analysis, Data Visualization, supervised and unsupervised Machine Learning, Deep Learning
@@ -25,8 +25,9 @@ Results:
 2. Eliminated redundant manual tasks
 3. Created a reliable and repeatable workflow for future sessions
 
-<img src = "https://github.com/Terry-Migwi/Attendance-Tracking/blob/main/assets/images/assets/images/attendance_tracking_ui.png" width = "600" height = "300"> 
+<img src = "https://github.com/Terry-Migwi/Attendance-Tracking/blob/main/assets/images/assets/images/attendance_tracking_ui.png" width = "200" height = "200"> 
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### [Airbnb Price Prediction](https://github.com/Terry-Migwi/Airbnb_Price_Prediction)
 
