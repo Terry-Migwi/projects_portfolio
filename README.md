@@ -25,7 +25,7 @@ Results:
 2. Eliminated redundant manual tasks
 3. Created a reliable and repeatable workflow for future sessions
 
-<img src = "https://github.com/Terry-Migwi/Attendance-Tracking/blob/main/assets/images/assets/images/attendance_tracking_ui.png" width = "200" height = "200"> 
+<img src = "https://github.com/Terry-Migwi/projects_portfolio/blob/main/docs/assets/css/attendance_tracking_ui.png" width = "600" height = "300"> 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
