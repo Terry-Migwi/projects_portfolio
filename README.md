@@ -9,7 +9,7 @@ Statistical Analysis, Data Analysis, Data Visualization, supervised and unsuperv
 
 ## Projects 
 
-### Attendance Tracking Project
+### [Attendance Tracking Project](https://github.com/Terry-Migwi/Attendance-Tracking)
 
 This project was developed to automate the learner attendance tracking process to save time. Previously, marking attendance manually for approximately 100 learners took me about 30 minutes per session. With two sessions per week, that added up to 2 hours of repetitive work every week. To streamline this task, I created a Python script that now completes the process in under 5 minutes.
 
@@ -27,7 +27,7 @@ Results:
 
 ### [Airbnb Price Prediction](https://github.com/Terry-Migwi/Airbnb_Price_Prediction)
 
-A project that employs statistical and machine learning techniques to predict Airbnb prices in the City of Paris. Linear Regression, Support Vector Machines(linear kernel), and multi-layer perceptron (linear activation) models are used to explore linear patterns between variables and non-linear and ensemble models, namely, Support Vector Machine (polynomial, RBF kernel), Random Forest, Gradient Boosting Machines (GBM), eXtreme Gradient Boosting Machines (xGBoost) are used to explore more complex patterns between the variables. This study shows the potential of machine learning in understanding complex relationships in data and predicting Airbnb prices. 
+This project employs statistical and machine learning techniques to predict Airbnb prices in the City of Paris. Linear Regression, Support Vector Machines(linear kernel), and multi-layer perceptron (linear activation) models are used to explore linear patterns between variables and non-linear and ensemble models, namely, Support Vector Machine (polynomial, RBF kernel), Random Forest, Gradient Boosting Machines (GBM), eXtreme Gradient Boosting Machines (xGBoost) are used to explore more complex patterns between the variables. This study shows the potential of machine learning in understanding complex relationships in data and predicting Airbnb prices. 
 
 <img src = "https://github.com/Terry-Migwi/projects_portfolio/assets/65303250/69799941-5b30-47ce-9d21-fef04766edb3" width = "100" height = "100">
 <img src = "https://github.com/Terry-Migwi/projects_portfolio/assets/65303250/72a2c1dc-ed25-48ed-a4d3-cfff7de5bbb6" width = "100" height = "100">
@@ -36,7 +36,7 @@ A project that employs statistical and machine learning techniques to predict Ai
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### [Sentiment Analysis of Amazon Reviews](https://github.com/Terry-Migwi/Amazon_Reviews_Sentiment_Analysis)
 
-A project to analyze sentiments on CDs and Vinyl products on Amazon's website using Natural Language Processing. The pre-trained VADER sentiment classifier is used to identify positive, neutral, and negative reviews for the products. Further, Logistic Regression, Naive Bayes, and Random Forests supervised machine learning and Neural Networks are used to classify the reviews. This study is relevant for Amazon's product team to evaluate their product performance, better understand their customers' needs and inform strategy. 
+This project analyzes sentiments on CDs and Vinyl products on Amazon's website using Natural Language Processing. The pre-trained VADER sentiment classifier is used to identify positive, neutral, and negative reviews for the products. Further, Logistic Regression, Naive Bayes, and Random Forests supervised machine learning and Neural Networks are used to classify the reviews. This study is relevant for Amazon's product team to evaluate their product performance, better understand their customers' needs and inform strategy. 
 
 <img src = "https://github.com/Terry-Migwi/projects_portfolio/assets/65303250/c0ee1a80-245d-4850-98ec-281d375bd6df" width = "100" height = "100"> 
 <img src = "https://github.com/Terry-Migwi/projects_portfolio/assets/65303250/b0e8cb64-9acc-453c-a946-2fbae66d2c38" width = "100" height = "100"> 
