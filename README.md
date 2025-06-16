@@ -26,8 +26,6 @@ Results:
 3. Created a reliable and repeatable workflow for future sessions
 
 <img src = "/assets/images/attendance_tracking_ui.png" width = "600" height = "300"> 
-<img src="https://raw.githubusercontent.com/Terry-Migwi/projects_portfolio/main/assets/images/attendance_tracking_ui.png" width="600" height="300">
-
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
